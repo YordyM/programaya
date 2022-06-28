@@ -1,0 +1,11 @@
+
+
+Equipo 4 
+
+Desarrollo de paginas webs  DSW 11
+
+<div id="sticky">
+<div id="relativo1">
+<div id="relativo2">
+<div id="absolute">
+<div id="fixed">
